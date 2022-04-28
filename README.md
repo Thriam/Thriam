@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thriam Thriam bakesvar B
+- 👋 Hi, I’m <a href="https://github.com/Thriam">@Thriam bakesvar B</a>
 - 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning Btech CSE with specialization in AI and Robotics
 
