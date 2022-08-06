@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning Btech CSE with specialization in AI and Robotics
 
-https://github.com/Thriam/Thriam/blob/main/Githubstats.svg
+<iframe src="(https://github.com/Thriam/Thriam/blob/main/Githubstats.svg)" width="200" height="200" >
 
 <!---
 Thriam/Thriam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
