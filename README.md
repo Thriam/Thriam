@@ -2,6 +2,8 @@
 - 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning Btech CSE with specialization in AI and Robotics
 
+<img src="https://github.com/Thriam/Thriam/blob/main/Githubstats.svg">
+
 <a href="https://www.github.com/thriam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thriam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -48,8 +50,6 @@ src="https://img.shields.io/github/followers/thriam?logo=github&style=for-the-ba
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/thriam/Thriam-MD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thriam&repo=Thriam-MD&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<img src="https://github.com/Thriam/Thriam/blob/main/Githubstats.svg">
 
 <!---
 Thriam/Thriam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
