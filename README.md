@@ -2,6 +2,8 @@
 - 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning Btech CSE with specialization in AI and Robotics
 
+Portfolio - <a href="https://thriam.netlify.app/">thriam.netlify.app</a>
+
 <img src="https://github.com/Thriam/Thriam/blob/main/Githubstats.svg">
 
 <a href="https://www.github.com/thriam" target="_blank" rel="noreferrer"><img
